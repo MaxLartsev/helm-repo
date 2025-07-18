@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  conv-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-07-18T11:52:14.605583+03:00"
+    description: Image Converter Service
+    digest: f926ef17d95ba603473efac8b3be930b0eb643a0daef696682203cf5bd3ef498
+    name: conv-service
+    type: application
+    urls:
+    - conv-service-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-18T11:52:14.604913+03:00"
